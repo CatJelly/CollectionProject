@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyArrayListTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-04-19T07:09:34" hostname="SAMSUNGui-MacBookPro.local" time="0.018">
+  <properties/>
+  <testcase name="testAdd()" classname="MyArrayListTest" time="0.01"/>
+  <testcase name="testGet()" classname="MyArrayListTest" time="0.001"/>
+  <testcase name="testClear()" classname="MyArrayListTest" time="0.001"/>
+  <testcase name="testSize()" classname="MyArrayListTest" time="0.001"/>
+  <testcase name="testContains()" classname="MyArrayListTest" time="0.001"/>
+  <testcase name="testIndexOf()" classname="MyArrayListTest" time="0.0"/>
+  <testcase name="testRemove()" classname="MyArrayListTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
