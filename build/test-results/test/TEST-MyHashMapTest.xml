@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyHashMapTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-04-20T04:59:25" hostname="SAMSUNGui-MacBookPro.local" time="0.024">
+  <properties/>
+  <testcase name="testGet()" classname="MyHashMapTest" time="0.014"/>
+  <testcase name="testPut()" classname="MyHashMapTest" time="0.001"/>
+  <testcase name="testClear()" classname="MyHashMapTest" time="0.0"/>
+  <testcase name="testSize()" classname="MyHashMapTest" time="0.002"/>
+  <testcase name="testContainsKey()" classname="MyHashMapTest" time="0.001"/>
+  <testcase name="testContainsValue()" classname="MyHashMapTest" time="0.0"/>
+  <testcase name="testPutReplace()" classname="MyHashMapTest" time="0.0"/>
+  <testcase name="testRemove()" classname="MyHashMapTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
